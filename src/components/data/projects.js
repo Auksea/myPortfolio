@@ -26,7 +26,7 @@ export const ProjectData=[
         id:1,
         title:"Humidic ",
         about: " The idea of the web application is to have a device that is installed in the asthma patients room, that checks the humidity level in the room. The patient can set an alert if they want, so they will be notified when the humidity level is higher or lower that values they have defined. The webpage will also display the temperature and humidity outside. ",
-        tags:["C#", "HTML", "", "TypeScript" , "CSS", "SQL", "Asp.Net Core", "XP programming"],
+        tags:["C#", "HTML", "TypeScript" , "CSS", "SQL", "Asp.Net Core", "XP programming"],
         github:"https://github.com/Auksea/humidicWebService",
         image:"",
     },

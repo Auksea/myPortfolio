@@ -11,10 +11,11 @@ function About() {
          <br /> I am a Web Developer
         </div>
         <div className="about-photo">
-          <img 
-            src={require("../../../assets/coding1.avif")}
-            className="picture"
-          />
+        <img 
+        src={require("../../../assets/codingMain1.jpg")}
+        alt="Coding Main"
+        className="picture"
+        />
         </div>
       </div>
       <SocialContact />

@@ -8,13 +8,14 @@
 }
 
 .picture {
-    height: 420px;
+    height: 400px;
+    padding-right: 2rem;
 }
 .about-info {
     font-size: 24px;
 }
 .info-name {
-    color: blue;
+    color: palevioletred;
     font-size: 32px;
 }
 
