@@ -3,21 +3,16 @@ export const SocialData=[
     {
         platform:"Github",
         icon: require("../../assets/icons/github.png"),
-        link:"https://github.com/ThantZinPhyo-Slark",
+        link:"https://github.com/Auksea?tab=repositories",
     },
     {
         platform:"Linkedin",
         icon: require("../../assets/icons/linkedin.png"),
-        link:"https://www.linkedin.com/in/thantzinphyo11/",
-    },
-    {
-        platform:"Twitter",
-        icon: require("../../assets/icons/twitter.png"),
-        link: "https://twitter.com/ThantZinPhyoSLK",
+        link:"https://www.linkedin.com/in/aukse17/",
     },
     {
         platform:"Facebook",
         icon: require("../../assets/icons/facebook.png"),
-        link:"https://www.facebook.com/thantzin.phyo.18",
+        link:"https://www.facebook.com/aukse.matulaite",
     },
 ];
