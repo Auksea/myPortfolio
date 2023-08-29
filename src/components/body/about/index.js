@@ -6,13 +6,13 @@ function About() {
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-        Hello There ✋,I am,
+        Hello There ✋I am
          <br /> <span className="info-name">Aukse</span>.
          <br /> I am a Web Developer
         </div>
         <div className="about-photo">
           <img 
-            src={require("../../../assets/coding.png")}
+            src={require("../../../assets/coding1.avif")}
             className="picture"
           />
         </div>
